@@ -1,0 +1,16 @@
+body {
+  background-color: black;
+  margin: 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+}
+
+#bin-clock {
+  margin: 3rem;
+  border: 1px solid white;
+}
+/*# sourceMappingURL=style.css.map */

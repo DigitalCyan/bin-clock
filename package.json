@@ -1,0 +1,30 @@
+{
+  "name": "bin-clock",
+  "version": "1.0.0",
+  "description": "A simple binary clock hosted on an express server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DigitalCyan/bin-clock.git"
+  },
+  "keywords": [
+    "JS",
+    "Clock"
+  ],
+  "author": "DigitalCyan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DigitalCyan/bin-clock/issues"
+  },
+  "homepage": "https://github.com/DigitalCyan/bin-clock#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
